@@ -1,7 +1,7 @@
 # test-repo
 A sample repository for DSC AKSU members to practice git and github skills learned at the workshop
 
-DSCAKSU GIT & GITHUB WORKSHOP EXERCISE
+# DSCAKSU GIT & GITHUB WORKSHOP EXERCISE
 Task 1:
     • Signup on Github
     • create a repo with any name you like
