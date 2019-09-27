@@ -2,7 +2,7 @@
 A sample repository for DSC AKSU members to practice git and github skills learned at the workshop
 
 # DSCAKSU GIT & GITHUB WORKSHOP EXERCISE
-**Task 1:**
+## Task 1:
 - Signup on Github
 - create a repo with any name you like
 - create a .txt file,  write your name, level and department on the txt file.
@@ -12,7 +12,7 @@ A sample repository for DSC AKSU members to practice git and github skills learn
 
 After it share us your repo link.
 
-**Task 2:**
+## Task 2:
 - clone the repository https://github.com/dscaksu/test-repo
 - Add your name to the page and commit on it
 - then push it back to the repo.
